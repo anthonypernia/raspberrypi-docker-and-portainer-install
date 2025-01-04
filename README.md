@@ -18,8 +18,8 @@ This repository contains:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/<your-username>/<your-repo>.git
-   cd <your-repo>
+   git clone https://github.com/anthonypernia/raspberrypi-docker-and-portainer-install.git
+   cd raspberrypi-docker-and-portainer-install
     ```
 2. **Make the Script Executable**
 
